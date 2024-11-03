@@ -1,0 +1,91 @@
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 0,
+			"hideicon": false,
+			"hideiconafter": 1,
+			"iconurl": "",
+			"disableicontext": false,
+			"iconposition": 1,
+			"icontextcolor": 0,
+			"openonstart": true,
+			"openonstartonlynewplayers": false,
+			"updateinterval": 12
+		},
+		"tabs": [
+			{
+				"layout": 2,
+				"buttontext": "<TextStyle.Red> Welcome </>",
+				"imageurl": "https://images5.alphacoders.com/740/740577.png",
+				"content": [
+					{
+						"title": "<TextStyle.Blue> Welcome On Light's servers </>",
+						"text": "\r\n\r\nHi, all Community has been a close-knit community of gamers since January 2016. 1 Owner 4 Admins to help you ingame and on discord. System ticket on discord.\r\n\r\n\r\n\r\n          1. F1 to open this menu.\r\n          2. Shop & Kits in F2, for console players go tab shop.\r\n          3. Join the discord for all details - infos - news.\r\n          4. Link Donate to buy points.\r\n          5. To find dinos go in your inventory/map/open finder.\r\n"
+					},
+					{
+						"title": "<TextStyle.Blue> Settings </>",
+						"text": "\r\n\r\n          ● XP: x10, Harvest: x100, Taming: x20\r\n          ● Breed x10, Gestation: x10, Egg Hatch: x10\r\n          ● Player Level: 100\r\n          ● Level Wild 150 \r\n          ● Keep all your Stuff on Death with (Death Inventory Keeper)\r\n"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "<TextStyle.Red> Rules </>",
+				"imageurl": "https://i.imgur.com/YqOg6z4.jpg",
+				"content": [
+					{
+						"title": "<TextStyle.Blue> Rules </>",
+						"text": "\r\n\r\n\r\n\r\n          1. Do not undermesh, glitch, exploit, insults, racism, abuse or cheat.\r\n          2. You are not allowed to spam foundations to excess. (This applies to all structures).\r\n          3. Don't build too close to another base.\r\n          4. Generated boss dinos are 'FORBIDDEN' in other players' bases. if I have a report with proof its a ban.\r\n          5. Pick up your trap after taming.\r\n          6. Your inventory will not be replaced if it is lost. As such please make BPs of any items, clone all your tames and soultrap them, we dont refund.\r\n          7. Don’t use Ark Data to transfert your dinos and stuffs between cluster. NO REFUND.\r\n          8. Forbidden on setting up a personal store ... Rip structures.\r\n          9. 9 oceanic platforms per Tribe 3X3\r\n"
+					}
+				]
+			},
+			{
+				"layout": 3,
+				"buttontext": "<TextStyle.Red> Shop </>",
+				"imageurl": "https://i.imgur.com/zDVrnF1.jpg",
+				"content": [
+					{
+						"title": "<TextStyle.Blue> SHOP </>",
+						"text": "\r\nShop for console players, you have all codes to buy kits&Dinos.\r\nEvery 20 minutes, you have a message in the global chat with your amount of points.\r\n\r\n     Starter kit (3 free): /kit 01\r\n\r\n     How buy kit. Example Kit TekPlot\r\n     /buykit 03 1 after do /kit 03 to have it in your inventory. \r\n\r\n\r\n\r\n\r\n     Command : /buy 'ID' 'Amount'\r\n     Example : /buy 142 1   you buy a Legendary Stego\r\n\r\nAncien - Alpha - Divine cost 1000 points\r\nDevilsh cost 1500 points\r\nElectric - Hydra - Volvanic - Celestial cost 2000 points\r\nAbyssal cost 2500 points\r\nFairy - Shadow cost 3000 points\r\nLegendary - Mythic  cost 4000 points\r\nDemonic - Bionic - Infected cost 5000 points\r\nTier 5 cost 6000 points\r\nWarden - Tier Boss cost 8000 points\r\nAscension Tier cost 10000 points\r\n"
+					},
+					{
+						"title": "<TextStyle.Blue> ID KITS </>",
+						"text": "\r\n                       Kits                                                       Prices\r\n\r\n   ● ID 01 - Kit Starter - 3free               ➢➢➢       100 Points\r\n   ● ID 02 - Kit Farming - All Bench      ➢➢➢       300 Points\r\n   ● ID 03 - kit TekPlot - 5 TekPlots     ➢➢➢      2000 Points\r\n   ● ID 05 - kit Taming - 50 arrows       ➢➢➢      1000 Points\r\n   ● ID 06 - Kit Seed Tier1 -                    ➢➢➢       500 Points\r\n   ● ID 07 - Kit Seed Tier2 -                    ➢➢➢       600 Points\r\n   ● ID 08 - Kit Seed Tier3 -                    ➢➢➢       700 Points\r\n   ● ID 09 - Kit Seed Tier4 -                    ➢➢➢       800 Points\r\n   ● ID 10 - Kit Seed Tier5 -                    ➢➢➢       900 Points\r\n   ● ID 11 - Kit Boss Tier - rare seed     ➢➢➢     3000 Points\r\n   ● ID 12 - Kit Kibbles Primal -             ➢➢➢     2500 Points\r\n   ● ID 13 - Kit Kibbles Descended -      ➢➢➢     2500 Points\r\n"
+					},
+					{
+						"title": "<TextStyle.Blue> ID DINOS </>",
+						"text": "                        Dinos                                                   \r\n\r\n   ● ID 01 - Alpha Allo                                                                   \r\n   ● ID 02 - Alpha Ankylo                                 \r\n   ● ID 03 - Alpha Argentavis                          \r\n   ● ID 04 - Alpha Arthropluera                        \r\n   ● ID 05 - Alpha Baryonyx                              \r\n   ● ID 06 - Alpha Brontosaurus                           \r\n   ● ID 07 - Alpha Carno                         \r\n   ● ID 08 - Alpha Castoroides                         \r\n   ● ID 09 - Alpha Chalico                          \r\n   ● ID 10 - Alpha Direbear                           \r\n   ● ID 11 - Alpha Direwolf                           \r\n   ● ID 12 - Alpha Doedicurus                           \r\n   ● ID 13 - Alpha Frog                        \r\n   ● ID 14 - Alpha Gallimimus                           \r\n   ● ID 15 - Alpha Giganto\r\n   ● ID 16 - Alpha Iguanodon\r\n   ● ID 17 - Alpha Kaprosuchus\r\n   ● ID 18 - Alpha Mammoth\r\n   ● ID 19 - Alpha Megaloceros\r\n   ● ID 20 - Alpha Megatherium\r\n   ● ID 21 - Alpha Monkey\r\n   ● ID 22 - Alpha Otter\r\n   ● ID 23 - Alpha Pachy\r\n   ● ID 24 - Alpha Paracer\r\n   ● ID 25 - Alpha Parasaur\r\n   ● ID 26 - Alpha Phiomia\r\n   ● ID 27 - Alpha Ptera\r\n   ● ID 28 - Alpha Pulmono\r\n   ● ID 29 - Alpha Quetzal\r\n   ● ID 30 - Alpha Rex\r\n   ● ID 31 - Alpha Saber\r\n   ● ID 32 - Alpha Sarco\r\n   ● ID 33 - Alpha Spino\r\n   ● ID 34 - Alpha Stego\r\n   ● ID 35 - Alpha TerrorBird\r\n   ● ID 36 - Alpha Therizi\r\n   ● ID 37 - Alpha Thyla\r\n   ● ID 38 - Alpha Trike\r\n   ● ID 39 - Alpha Turtle\r\n   ● ID 40 - Alpha WoollyRhin\r\n   ● ID 41 - Electric Allo\r\n   ● ID 42 - Electric Argent\r\n   ● ID 43 - Electric Basilo\r\n   ● ID 44 - Electric Cnidaria\r\n   ● ID 45 - Electric Diplo\r\n   ● ID 46 - Electric Direbear\r\n   ● ID 47 - Electric DodoRex\r\n   ● ID 48 - Electric Dolphin\r\n   ● ID 49 - Electric Dunkleo\r\n   ● ID 50 - Electric Electrophorus\r\n   ● ID 51 - Electric Eurypterid\r\n   ● ID 52 - Electric Griffin\r\n   ● ID 53 - Electric Liopleurodon\r\n   ● ID 54 - Electric Thyla\r\n   ● ID 55 - Electric Manta\r\n   ● ID 56 - Electric Megalodon\r\n   ● ID 57 - Electric Mosa\r\n   ● ID 58 - Electric Piranha\r\n   ● ID 59 - Electric Plesiosaur\r\n   ● ID 60 - Electric Rex\r\n   ● ID 61 - Electric Saber\r\n   ● ID 62 - Electric Thylacoleo\r\n   ● ID 63 - Electric Trilobite\r\n   ● ID 64 - Electric Tusoteuthis\r\n   ● ID 65 - Hydro Allo\r\n   ● ID 66 - Hydro Baryonyx\r\n   ● ID 67 - Hydro Basilo\r\n   ● ID 68 - Hydro Beaver\r\n   ● ID 69 - Hydro Cnidaria\r\n   ● ID 70 - Hydro Diplocaulus\r\n   ● ID 71 - Hydro DodoRex\r\n   ● ID 72 - Hydro Dunkleo\r\n   ● ID 73 - Hydro Electrophorus\r\n   ● ID 74 - Hydro Eurypterid\r\n   ● ID 75 - Hydro Frog\r\n   ● ID 76 - Hydro Kairuku\r\n   ● ID 77 - Hydro Kapro\r\n   ● ID 78 - Hydro Liopleurodon\r\n   ● ID 79 - Hydro Manta\r\n   ● ID 80 - Hydro Megalodon\r\n   ● ID 81 - Hydro Mosa\r\n   ● ID 82 - Hydro Otter\r\n   ● ID 83 - Hydro Owl\r\n   ● ID 84 - Hydro Owl\r\n   ● ID 85 - Hydro Piranha\r\n   ● ID 86 - Hydro Thylacoleo\r\n   ● ID 87 - Hydro Plesiosaur\r\n   ● ID 88 - Hydro Rex\r\n   ● ID 89 - Hydro Sarco\r\n   ● ID 90 - Hydro Spino\r\n   ● ID 91 - Hydro Trilobite\r\n   ● ID 92 - Hydro Turtle\r\n   ● ID 93 - Hydro Tusoteuthis\r\n   ● ID 94 - Volcanic Allo\r\n   ● ID 95 - Volcanic Basilo\r\n   ● ID 96 - Volcanic Cnidaria\r\n   ● ID 97 - Volcanic Deathworm\r\n   ● ID 98 - Volcanic Diplo\r\n   ● ID 99 - Volcanic DodoRex\r\n   ● ID 100 - Volcanic Dolphin\r\n   ● ID 101 - Volcanic Dragon\r\n   ● ID 102 - Volcanic Dunkleo\r\n   ● ID 103 - Volcanic Electro\r\n   ● ID 104 - Volcanic Eurypterid\r\n   ● ID 105 - Volcanic Liopleurodon\r\n   ● ID 106 - Volcanic Manta\r\n   ● ID 107 - Volcanic Megalodon\r\n   ● ID 108 - Volcanic Mosa\r\n   ● ID 109 - Volcanic Piranha\r\n   ● ID 110 - Volcanic Plesiosaur\r\n   ● ID 111 - Volcanic Raptor\r\n   ● ID 112 - Volcanic Rex\r\n   ● ID 113 - Volcanic Spino\r\n   ● ID 114 - Volcanic Tapejara\r\n   ● ID 115 - Volcanic Trilobite\r\n   ● ID 116 - Volcanic Tusoteuthis\r\n   ● ID 117 - Fairy Argentavis\r\n   ● ID 118 - Fairy Doedic\r\n   ● ID 119 - Fairy Jerboa\r\n   ● ID 120 - Fairy Pegasus\r\n   ● ID 121 - Fairy Wyvern\r\n   ● ID 122 - Shadow Arthro\r\n   ● ID 123 - Shadow Brood\r\n   ● ID 124 - Shadow Diplo\r\n   ● ID 125 - Shadow Golem\r\n   ● ID 126 - Shadow Gorilla\r\n   ● ID 127 - Shadow Turkey\r\n   ● ID 128 - Legendary Allo\r\n   ● ID 129 - Legendary Areneo\r\n   ● ID 130 - Legendary Baryonyx\r\n   ● ID 131 - Legendary Carno\r\n   ● ID 132 - Legendary Dilo \r\n   ● ID 133 - Legendary Indom\r\n   ● ID 134 - Legendary Kairuku\r\n   ● ID 135 - Legendary Kapro\r\n   ● ID 136 - Legendary Pachy\r\n   ● ID 137 - Legendary Ptero\r\n   ● ID 138 - Legendary Raptor\r\n   ● ID 139 - Legendary Sarco\r\n   ● ID 140 - Legendary Scorpion\r\n   ● ID 141 - Legendary Spino\r\n   ● ID 142 - Legendary Stego\r\n   ● ID 143 - Legendary Thorny\r\n   ● ID 144 - Legendary Trike\r\n   ● ID 145 - Legendary Wyvern\r\n   ● ID 146 - Mythic Anky\r\n   ● ID 147 - Mythic Argentavis\r\n   ● ID 148 - Mythic Beaver\r\n   ● ID 149 - Mythic Bigfoot\r\n   ● ID 150 - Mythic Doedic\r\n   ● ID 151 - Mythic Frog\r\n   ● ID 152 - Mythic Jerboa\r\n   ● ID 153 - Mythic Leech\r\n   ● ID 154 - Mythic Mammoth\r\n   ● ID 155 - Mythic Owl\r\n   ● ID 156 - Mythic Paracer\r\n   ● ID 157 - Mythic Ptero\r\n   ● ID 158 - Mythic Quetz\r\n   ● ID 159 - Mythic Sauropod\r\n   ● ID 160 - Mythic Stag\r\n   ● ID 161 - Mythic Stego\r\n   ● ID 162 - Mythic Tapejara\r\n   ● ID 163 - Mythic Therizino\r\n   ● ID 164 - Mythic Trike\r\n   ● ID 165 - Demonic Dilo\r\n   ● ID 166 - Demon Ferox\r\n   ● ID 167 - Demonic Gorilla\r\n   ● ID 168 - Demonic Reaper\r\n   ● ID 169 - Demonic Thorny\r\n   ● ID 170 - Golden Dodo\r\n   ● ID 171 - Golden Turkey\r\n   ● ID 172 - Divine Spino\r\n   ● ID 173 - Divine Allosaure\r\n   ● ID 174 - Divine Basilosaurus\r\n   ● ID 175 - Divine Argentavis\r\n   ● ID 176 - Divine SpineyLizard\r\n   ● ID 177 - Divine Griffin\r\n   ● ID 178 - Devilsh Rex\r\n   ● ID 179 - Devilsh Equus\r\n   ● ID 180 - Devilsh Allosaure\r\n   ● ID 181 - Devilsh Thylacoleo\r\n   ● ID 182 - Devilsh Therizino\r\n   ● ID 183 - Devilsh Phoenix\r\n   ● ID 184 - Devilsh Equus\r\n   ● ID 185 - Celestial Gorilla\r\n   ● ID 186 - Celestial Gigant\r\n   ● ID 187 - Celestial Titanosaur\r\n   ● ID 188 - Celestial Wyvern\r\n   ● ID 189 - Celestial RockGolem\r\n   ● ID 190 - Celestial Rhynio\r\n   ● ID 191 - Abyssal DodoRex\r\n   ● ID 192 - Abyssal Drake\r\n   ● ID 193 - Abyssal SpiderL\r\n   ● ID 194 - Abyssal Manticore\r\n   ● ID 195 - Abyssal Carcha\r\n   ● ID 198 - Bionic Quetz\r\n   ● ID 199 - Bionic Rex\r\n   ● ID 200 - Bionic Trike\r\n   ● ID 201 - Bionic Mosa\r\n   ● ID 202 - Warden Rex\r\n   ● ID 203 - Warden Therizino\r\n   ● ID 204 - Warden Spino\r\n   ● ID 205 - Warden Spiney Lizard\r\n   ● ID 206 - Infected Dimorph\r\n   ● ID 207 - Infected Ptero\r\n   ● ID 208 - Infected Argent\r\n   ● ID 209 - Infected Wyvern\r\n   ● ID 210 - Ancient Raptor\r\n   ● ID 211 - Ancient Carno\r\n   ● ID 212 - Ancient Therizino\r\n   ● ID 213 - Ancient Spino\r\n   ● ID 214 - Tier Boss Death Knight\r\n   ● ID 215 - Tier Boss Electric Boss Enforcer\r\n   ● ID 216 - Tier Boss Hydro Guardian\r\n   ● ID 217 - Tier Boss Volcanic Guardian\r\n   ● ID 218 - Tier5 Dying Light\r\n   ● ID 219 - Tier5 Eternal Gorilla\r\n   ● ID 220 - Tier5 Galaxy Warcheif\r\n   ● ID 221 - Tier5 Charger emperor\r\n   ● ID 222 - Tier5 Tyrant Spino\r\n   ● ID 223 - Ascension Tier Dying Light"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "<TextStyle.Red> Donation </>",
+				"imageurl": "https://images5.alphacoders.com/740/740577.png",
+				"content": [
+					{
+						"title": "<TextStyle.Blue> Donation </>",
+						"text": "  \r\n    \r\n By default, you start with 0 points and you have 30 points every 20 minutes.\r\n\r\n\r\n\r\n     Vip Stone     : 05 euros  1000 points 35 points every 20 min for 2 weeks.  VIP on discord. Icon Vip ingame.\r\n     Vip Bronze   : 10 euros  3000 points 40 points every 20 min for 1 month.  VIP on discord. Icon Vip ingame.\r\n     Vip Silver      : 20 euros  8000 points 45 points every 20 min for 1 month.  VIP on discord. Icon Vip ingame.\r\n     Vip Gold        : 30 euros 12000 points 50 points every 20 min for 1 month.  VIP on discord. Icon Vip ingame.\r\n     Vip Platinum : 50 euros 25000 points 60 points every 20 min for 1 month.  VIP on discord. Icon Vip ingame.\r\n     Vip God        : 100 euros 50000 points 80 points every 20 min for 2 months. VIP on discord. Icon Vip ingame. Works on all light ASA servers.\r\n\r\n\r\n\r\n     After a purchase wait 10 sec to get your VIP pack.\r\n     After a wipe you start Automatically with your Vip pack.\r\n     All donations allow to keep the server alive and to buy new plugins.\r\n"
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "<TextStyle.Violet> Discord </>",
+				"url": "https://discord.gg/ck53jj2EB5"
+			},
+			{
+				"text": "<TextStyle.Yellow> Donate </>",
+				"url": "https://light.tip4serv.com/"
+			},
+			{
+				"text": "<TextStyle.Blue> LootBox </>",
+				"url": "https://light.tip4serv.com/category/primal-descended"
+			}
+		],
+		"version": 2
+	}
+}
